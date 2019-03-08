@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="<%=request.getContextPath() %>/themes/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css"
+	rel="stylesheet" type="text/css" />
+<link href="<%=request.getContextPath() %>/themes/bootstrap-3.3.7/dist/css/bootstrap.min.css"
+	rel="stylesheet" type="text/css" />
+<link href="<%=request.getContextPath() %>/themes/css/style.css" rel="stylesheet"/>	
+<title>ENI Ench&#232re</title>
+</head>
+<body class="container-fluid">
+<header class="row">
+<a href="<%=request.getContextPath()%>/encheresCo"><img src="./images/logo_Troc_Encheres.png" alt="" name="Logo Eni Troc Enchères" class="logo"></a>
+</header>
