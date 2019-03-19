@@ -1,5 +1,5 @@
 # ProjetEnchere
-Projet Java EniEnchere en equipe
+Projet Java EniEnchere
 Projet effectuée sous Eclipse(sans utiliser Maven)
 Seuls le web-content et les src sont utiles.
 Le package normé est: fr.eni.projet
